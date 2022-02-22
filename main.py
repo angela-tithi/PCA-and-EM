@@ -221,7 +221,7 @@ figure_number = 1
 
 while True:
 
-    if number_of_iterations % 5 == 0 and number_of_iterations != 0:
+    if number_of_iterations % 5 == 0:
         draw_clusters(new_data, posteriors, figure_number)
         figure_number += 1
 
