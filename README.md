@@ -19,6 +19,6 @@ pipenv shell
 python main.py
 ```
 
-It may take time to converge the EM algorithm, so please hold your patience. After it converges, you can see a window which shows the animation of the clustering flow. I have attached the animation file that I have got from previous execution. It is in **Previous Execution** folder.
+It may take time to converge the EM algorithm, so please hold your patience. After it converges, you will see a window which shows the animation of the clustering flow. I have attached the animation file that I have got from previous execution. It is in **Previous Execution** folder.
 
 This project was actually an assignment I had to submit in the final year at BUET, I have remade the project, you can find the details about this assignment in the **ML2.pdf** file included. I have followed the steps and the formulas mentioned in this assignment specification. Please let me know if you have questions.
